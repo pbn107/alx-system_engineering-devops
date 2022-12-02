@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +rwx
+chmod 765 5-execute
